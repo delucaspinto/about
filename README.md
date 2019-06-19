@@ -34,7 +34,7 @@
 ### Formação Acadêmica
 
 - FSG – Bento Gonçalves - 1º ano/2018 (Trancado)
-  Cursando Análise e Desenvolvimento de Sistemas
+  Análise e Desenvolvimento de Sistemas
 
 ### Outros Cursos
 
