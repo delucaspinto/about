@@ -47,11 +47,10 @@
 
 ### Objetivo pessoal e profissional
 
-Pretendo levar à empresa todo meu conhecimento e experiências vividas para ampliar ambos desempenhos e assim acendermos.
-Sou didático e criativo, estou sempre procurando novos tendências e tecnologias para poder proporcionar ao usuário final uma experiência única.
-Como pessoa, sou extrovertido e comunicativo. Gosto de trabalhar em ambientes descontraídos, mas sempre mantendo as tarefas organizadas e entregando-as no prazo.
-Tenho perfil empreendedor, sempre estou procurando novas soluções para os problemas encontrados na sociedade.
-Gosto de resolver problemas encontrados no trabalho, seja ela em uma ferramenta no computador, um problema no ambiente de trabalho ou a dificuldade de alguém próximo a mim.
+Poder resolver os problemas de outras pessoas sempre me motivou, por isso comecei minha carreira como técnico em informática, porém eu estava limitado a resolver problemas de pessoas com problemas de periféricos. 
+Então decidi migrar minha carreira para Suporte Técnico, assim aprimorei minhas habilidades de compreender melhor as necessidades de cada um, aperfeiçoando também minha dicção.
+Após 3 anos atuando como suporte, resolvi aprimorar ainda mais minhas competências e alterar novamente meu perfil para então me tornar desenvolvedor de sistemas, assim eu poderia criar muito mais soluções para muitas pessoas. 
+
 
 ### Últimos empregos:
 
