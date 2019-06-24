@@ -42,14 +42,16 @@
 
 ### Metas Acadêmicas para 2019
 
-- Início do Inglês Intermediário
+- Profissional: Inglês Técnico - Pessoal: Nível Intermediário
 - Desenvolvimento Mobile
+- Desenvolvimento de software usando metodologias ágeis (SCRUM)
+
 
 ### Objetivo pessoal e profissional
 
-Poder resolver os problemas de outras pessoas sempre me motivou, por isso comecei minha carreira como técnico em informática, porém eu estava limitado a resolver problemas de pessoas com problemas de periféricos. 
+Poder resolver os problemas de outras pessoas sempre me motivou, por isso comecei minha carreira como técnico em informática, porém eu estava limitado a resolver problemas de pessoas com problemas de periféricos.
 Então decidi migrar minha carreira para Suporte Técnico, assim aprimorei minhas habilidades de compreender melhor as necessidades de cada um, aperfeiçoando também minha dicção.
-Após 3 anos atuando como suporte, resolvi aprimorar ainda mais minhas competências e alterar novamente meu perfil para então me tornar desenvolvedor de sistemas, assim eu poderia criar muito mais soluções para muitas pessoas. 
+Após 3 anos atuando como suporte, resolvi aprimorar ainda mais minhas competências e alterar novamente meu perfil para então me tornar desenvolvedor de sistemas, assim eu poderia criar muito mais soluções para muitas pessoas.
 
 
 ### Últimos empregos:
