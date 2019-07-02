@@ -1,6 +1,11 @@
 ## Lucas De Lavra Pinto
 
-**27 anos** - lucasdelavrapinto@gmail.com
+lucasdelavrapinto@gmail.com
+
+### Projetos
+- Dashboard para cadastro de funcionários:
+  - Preview: [ezoom-test](http://lucasdev-test-ezoom.epizy.com)
+  - Source: [github](https://github.com/lucasdelavrapinto/ezoom-dev-test)
 
 ### Áreas de Interesse
 
