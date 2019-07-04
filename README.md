@@ -26,15 +26,16 @@ lucasdelavrapinto@gmail.com
 - Aprenda Python com exercícios (Online)
 - Git e Github (Online)
 - Ionic 3 para Iniciantes (Online)
-- Desenvolvimento com Flutter (Online 35 Horas)
+- Desenvolvimento mobile Flutter (Online)
 
-### Experiências e Conhecimentos
+### <span style="color:teal">Experiências</span> e Conhecimentos
 
-- Linguagens: PHP e Python
-- HTML, CSS, Javascript, JQuery e Bootstrap.
-- Frameworks: Flask, Django e Laravel.
-- Banco: MySQL e MongoDB
+- Linguagens: <span style="color:">PHP</span> e Python
+- <span style="color:teal">HTML, CSS, Javascript, JQuery e Bootstrap.</span>
+- Frameworks: Flask, Django e <span style="color:teal">Laravel.</span>
+- Banco: <span style="color:teal">MySQL</span> e MongoDB
 - Mobile: Dart, Flutter e Ionic.
+- Versionamento: <span style="color:teal">Git</span> (Github, Gitlab)
 
 ### Formação Acadêmica
 
