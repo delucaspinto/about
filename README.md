@@ -4,8 +4,12 @@ lucasdelavrapinto@gmail.com
 
 ### Projetos
 - Dashboard para cadastro de funcionários:
-  - Preview: [ezoom-test](http://lucasdev-test-ezoom.epizy.com)
-  - Source: [github](https://github.com/lucasdelavrapinto/ezoom-dev-test)
+  - Preview: [Live Demo](http://lucasdev-test-ezoom.epizy.com)
+  - Source: [Github](https://github.com/lucasdelavrapinto/ezoom-dev-test)
+  
+ - Dashboard para Lançamento de despesas(em desenvolvimento):
+  - Preview: [Live Demo](http://165.227.94.2/)
+  - Source: [Github](https://github.com/lucasdelavrapinto/meajuda2)
 
 ### Áreas de Interesse
 
