@@ -8,7 +8,6 @@ lucasdelavrapinto@gmail.com
   - Source: [Github](https://github.com/lucasdelavrapinto/ezoom-dev-test)
   
 - Dashboard para Lançamento de despesas(em desenvolvimento):
-  - Preview: [Live Demo](http://165.227.94.2/)
   - Source: [Github](https://github.com/lucasdelavrapinto/meajuda2)
 
 ### Áreas de Interesse
