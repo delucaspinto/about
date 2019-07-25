@@ -3,12 +3,14 @@
 lucasdelavrapinto@gmail.com
 
 ### Projetos
-- Dashboard para cadastro de funcionários:
-  - Preview: [Live Demo](http://lucasdev-test-ezoom.epizy.com)
+- Dashboard para cadastro de funcionários
   - Source: [Github](https://github.com/lucasdelavrapinto/ezoom-dev-test)
-  
-- Dashboard para Lançamento de despesas(em desenvolvimento):
+
+- Dashboard para Lançamento de despesas(em desenvolvimento)
   - Source: [Github](https://github.com/lucasdelavrapinto/meajuda2)
+
+- Dashboard Integrado via API com o Bling ERP (CRUD)
+  - Source: [Github](https://github.com/lucasdelavrapinto/ArgonAPI-Bling)
 
 ### Áreas de Interesse
 
@@ -23,13 +25,13 @@ lucasdelavrapinto@gmail.com
 - Redes de Computadores ( Presencial )
 - Linux para servidores. Mód. 1 ( Presencial )
 - Desenvolvimento Web – PHP & Laravel ( Presencial )
-- Banco de Dados: MongoDB ( Online )
-- Javascript Iniciante ( Online )
-- Django2.0 – Conceitos Fundamentais (Online)
-- Aprenda Python com exercícios (Online)
+- MongoDB ( Online )
+- Javascript Begginer ( Online )
+- Django2 (Online)
+- Python3 (Online)
 - Git e Github (Online)
-- Ionic 3 para Iniciantes (Online)
-- Desenvolvimento mobile Flutter (Online)
+- Ionic 3 Begginer (Online)
+- Flutter Mobile (Online)
 
 ### <span style="color:teal">Experiências</span> e Conhecimentos
 
@@ -39,6 +41,7 @@ lucasdelavrapinto@gmail.com
 - Banco: <span style="color:teal">MySQL</span> e MongoDB
 - Mobile: Dart, Flutter e Ionic.
 - Versionamento: <span style="color:teal">Git</span> (Github, Gitlab)
+- API, Integrações.
 
 ### Formação Acadêmica
 
